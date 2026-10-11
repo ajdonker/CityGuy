@@ -1,0 +1,15 @@
+## 1. Can you tell me about some places in the city that you regularly visit for reasons other than shopping or eating—for example, a park, a square, or another public space? What do you usually do there?
+## 2.  When you want to find a place you don't already know—for example, a quiet place to walk, exercise, relax, or spend some time—how do you normally find it?
+## 3.  What information is important to you when deciding whether a place is suitable for your needs?
+## 4.  Can you remember the last time you couldn't find enough information about a place? What happened?
+## 5.  What tools or sources do you currently use to find information about public spaces or facilities?
+## 6.  Is there information about urban spaces that is difficult to find using your current tools?
+## 7.  Have you ever discovered something useful about a place that wasn't available online? What was it?
+## 8.  Have you ever shared useful information about a place with other people? How and why?
+## 9.  Have you ever relied on information contributed by other citizens? What made you trust or distrust it?
+## 10.  Have you ever noticed a problem in a public space, such as damaged infrastructure? What did you do?
+## 11.  Have you ever reported an urban problem to a public authority? Can you describe that experience?
+## 12. If you reported a problem, did you receive any feedback about what happened afterward?
+## 13.  What makes you willing to share useful local information with other people?
+## 14.  What discourages you from contributing information?
+## 15.  Are there particular kinds of information about your city that you wish were easier to obtain?
