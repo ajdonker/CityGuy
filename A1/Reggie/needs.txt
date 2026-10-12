@@ -1,0 +1,40 @@
+Participant information
+Name: Reggie
+Age: 30
+Gender: Male
+Occupation: Teacher
+User Type: Extreme User
+Location: Beijing and Cesena
+Why was he chosen? Why is he appropriate?
+The participant is a British citizen who has lived in Beijing for eight years. Despite his long-term residence, he has limited proficiency in spoken and written Chinese. Furthermore, restrictions on Google services create additional difficulties when navigating commonly used Chinese applications. Given these challenges, I would classify him as an extreme user in our UX research.
+
+How was he recruited?
+We were friends a few years ago, and we had many misunderstandings because neither of us spoke the other's language very well.
+Where was the interview conducted?
+The interview was conducted via video call.
+
+What did you observe and ask?
+Language barriers: His limited Chinese makes some tools and specific local information difficult to access.
+Social comfort matters: He wants welcoming places where he and his friends can feel comfortable and at home.
+Missing experiential information: Photos and reviews do not always reveal crowding, noise, or how welcoming a venue will feel.
+Community supports trust: He relies heavily on friends and WeChat groups with shared experiences. He retains that trust even when their recommendations produce different experiences.
+Group familiarity affects sharing: He hesitates to contribute when new to a group and becomes more willing after making friends.
+Reporting happens indirectly: He has reported problems to venue owners, but not directly to public authorities.
+
+Team member roles
+Interviewer: Pengyue Xu
+Note-taker: Thanh Tung Nguyen
+
+Needs
+
+He needs to understand and access local information despite language barriers.
+Possible solutions: Multilingual place descriptions; translated community reviews; natural-language search in his preferred language; bilingual questions and answers; visual summaries of facilities and activities.
+
+He needs to find places where he feels welcome and comfortable socializing.
+Possible solutions: Reviews describing visitors’ experiences of feeling welcome; community-organized visits to unfamiliar venues;
+
+He needs to assess whether recommendations are credible and relevant to his preferences.
+Possible solutions: Recommendations from familiar community members; reviews that explain the reviewer’s preferences; timestamps and recent visitor photos; separate fields for factual details and subjective impressions.
+
+He needs to feel socially comfortable before contributing information.
+Possible solutions: Smaller interest-based groups; introductions for newcomers; local meetups that help members connect; opportunities to reply to existing discussions before starting posts; control over whether contributions reach friends, a group, or the public.
