@@ -1,0 +1,32 @@
+Participant information
+Name: 
+Age: 
+Gender: Male
+Occupation: 
+User Type: Immediate User
+Location: Ho Chi Minh City and Cesena
+Why was he chosen? Why is he appropriate?
+
+How was he recruited?
+Where was the interview conducted?
+The interview was conducted via video call.
+
+What did you observe and ask?
+
+
+Team member roles
+Interviewer: Thanh Tung Nguyen
+Note-taker: Pengyue Xu
+
+Needs
+
+1. He needs to find places that suit his activities and conditions at the time of his visit.
+   Possible solutions: Filters for facilities and accessibility; comparable place summaries; recent crowding reports; questions answered by previous visitors; recommendations based on activities such as exercising, relaxing, or meeting friends.
+2. He needs to judge whether information is current and trustworthy.
+   Possible solutions: Show when information was observed; prioritize recent photos and reviews; let visitors confirm existing reports; flag information that needs updating; highlight recommendations from trusted contacts.
+3. He needs to discover useful local places and knowledge missing from mainstream sources.
+   Possible solutions: Citizen-submitted place listings; neighborhood recommendation collections; community maps of routes and facilities; local discovery walks; assistance for small businesses to publish basic information.
+4. He needs to share useful firsthand information with little effort and confidence in its accuracy.
+   Possible solutions: Short contribution templates; automatic location and observation-time fields; quick photo-based updates; drafts that can be completed later; simple options to update or withdraw information when conditions change.
+5. He needs to warn others about hazards and know where to send reports.
+   Possible solutions: A directory of responsible organizations; links to relevant official reporting forms; reports containing a location and photo; temporary community hazard alerts; easily shareable warnings for friends and nearby users.

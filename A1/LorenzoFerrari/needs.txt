@@ -20,40 +20,20 @@ He described visiting parks to read, walk, listen to music, and relax alone afte
 Team member roles
 Interviewer: Pengyue Xu
 Note-taker: Thanh Tung Nguyen
-### 1\. Evaluating Place Suitability in Advance (Environmental Conditions &amp; Amenities)
 
-•⁠  ⁠*User Need Statement:*
 
-&gt; "Lorenzo needs a way to *evaluate* environmental conditions (noise level, crowd density, shade) and amenity availability (water fountains, benches) before visiting a public space, so he can reliably find a quiet spot to relax without wasting time."
+Needs
+He needs to find places where he can relax alone and meet his practical needs.
+Possible solutions: Search by activity and facilities; recent visitor reports about noise and crowding; suggestions for quieter visiting times; community questions about specific places; maps showing benches, fountains, and shaded areas.
 
-•⁠  ⁠*Evidence from Interview:* Lorenzo's main priorities when visiting a park are finding a quiet, isolated spot with shade, benches, and a water fountain to refill his bottle[3][4]. He noted that current tools like Google Maps fail to provide details about whether a park has water fountains, benches, or high noise levels[5].
+He needs to explore unfamiliar areas without losing his sense of direction.
+Possible solutions: Downloadable offline maps; saved walking routes; directions using recognizable landmarks; a shortcut back to a familiar location; downloadable place information for use without connectivity.
 
----
+He needs to preserve the quiet places he values while deciding what information to share.
+Possible solutions: Private bookmarks for personal discoveries; sharing with selected friends; separate personal notes and public contributions; sharing facility updates at already well-known places; suggestions spread across several suitable locations to avoid concentrating visitors.
 
-### 2\. Discovering Unlisted Amenities &amp; Local Community Activities
+He needs to know whom to contact about damaged infrastructure and what happens afterward.
+Possible solutions: A directory of responsible organizations; reports automatically routed to the appropriate contact; confirmation that a report was received; a page showing progress; notifications when repairs are completed.
 
-•⁠  ⁠*User Need Statement:*
-
-&gt; "Lorenzo needs a way to *discover* unlisted neighborhood amenities (such as new recycling machines) and informal community activities (such as running groups or board game clubs) that are poorly publicized on standard digital platforms."
-
-•⁠  ⁠*Evidence from Interview:* Lorenzo discovered a new plastic bottle recycling machine near his house purely by walking past it, as it wasn't listed online[6]. He also expressed frustration that local activities like running groups or board game clubs are difficult to find online unless you search specifically or spot physical posters in the city[7].
-
----
-
-### 3\. Reporting &amp; Tracking Urban Infrastructure Hazards
-
-•⁠  ⁠*User Need Statement:*
-
-&gt; "Lorenzo needs a way to *report* dangerous urban hazards to the responsible authorities and *track* repair progress, so he can ensure public safety and receive confirmation that his civic action made a difference."
-
-•⁠  ⁠*Evidence from Interview:* Lorenzo reported a sharp, broken bench in front of the train station to station staff because it posed a physical danger to passersby[8]. Although the bench was fixed months later, he received no feedback or confirmation regarding his report[9].
-
----
-
-### 4\. Selective Sharing &amp; Preserving Privacy for Quiet Spots
-
-•⁠  ⁠*User Need Statement:*
-
-&gt; "Lorenzo needs to be able to *control* how and with whom he shares information about quiet public places, so he can exchange helpful tips with close friends while keeping his personal relaxation sanctuaries private and uncrowded."
-
-•⁠  ⁠*Evidence from Interview:* Lorenzo frequently exchanges practical city tips within his trusted circle of friends[10][11]. However, he deliberately avoids sharing his favorite secluded relaxation spots publicly because he fears that doing so would make them crowded and noisy[12].
+He needs to discover local activities and groups that match his interests.
+Possible solutions: A searchable local-group directory; a shared events calendar; updates posted by organizers; community contributions containing information from street posters; activity suggestions based on interests and availability.
