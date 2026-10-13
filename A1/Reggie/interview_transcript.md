@@ -90,9 +90,9 @@
 
 **Interviewer:** So I think most of the time you trust the information from WeChat. Do you have some scenarios where you don't trust some information online or from some sources?
 
-**Interviewee:** Not distrust, but disagreed. There are places where someone said, "Hey, check this out. It's super nice. It's super quiet, super friendly." We would go there and we'd have the opposite experience. It'd be loud, or the waiters weren't really patient with us, or they weren't really friendly towards us. And it was either really busy with Chinese locals, so we kind of felt overwhelmed, and we get stared at a lot. So there are times when the information given isn't 100% correct, or we've had the opposite experience to what people have said. But not distrust. We would never say distrust.
+**Interviewee:** Not distrust, but disagreed. There are places where someone said, "Hey, check this out. It's super nice. It's super quiet, super friendly." We would go there and we'd have the opposite experience. It'd be loud, or the waiters weren't really patient with us, or they weren't really friendly towards us. And it was either really busy with Chinese locals, so we kind of felt overwhelmed, and we get stared at a lot. So there are times when the information given isn't 100% correct, or we've had the opposite experience to what people have said. But not distrust. We would never say distrust.Maybe you have different opinions, but it is not distrust
 
-**Interviewer:** Maybe you have different opinions, but it is not distrust. Yes. Have you ever noticed a problem in a public space, such as damaged infrastructure? What did you do?
+**Interviewer:** . Yes. Have you ever noticed a problem in a public space, such as damaged infrastructure? What did you do?
 
 **Interviewee:** I think that's one thing that's really good about China. If something is damaged, they are very quick in responding to that. Say that infrastructure has been damaged. There's a broken wall, a chip, or a pothole. China is very good at fixing those situations within the next 24 hours. Whatever issue that building had, or the roads or infrastructure had, it would be fixed if it was a serious problem. So I've seen my share of broken walls, potholes and stuff, but it's been so quickly responded to that it doesn't really stay in my mind. Do you know what I mean?
 

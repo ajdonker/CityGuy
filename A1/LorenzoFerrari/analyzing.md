@@ -10,6 +10,7 @@
 | Occupation | Psychologist |
 | User Type | Immediate User |
 | Location | Cesena |
+| Nationality | Italian |
 
 ## Why Was He Chosen? Why Is He Appropriate?
 

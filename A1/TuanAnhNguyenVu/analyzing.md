@@ -10,6 +10,7 @@
 | Occupation | |
 | User Type | Immediate User |
 | Location | Ho Chi Minh City and Cesena |
+| Nationality | Vietnamese |
 
 ## Why Was He Chosen? Why Is He Appropriate?
 

@@ -2,7 +2,7 @@
 
 ## Transcript
 
-**Interviewer:** Is it working? Okay, right? Okay. Hi. Okay. I'm a student. Now I'm working on a class project. I would like to record this interview so I don't miss anything. Only our team and professor will hear it. Is it okay with you?
+**Interviewer:** Hi. Okay. I'm a student. Now I'm working on a class project. I would like to record this interview so I don't miss anything. Only our team and professor will hear it. Is it okay with you?
 
 **Interviewee:** Yeah, okay. I'm really excited for this interview.
 

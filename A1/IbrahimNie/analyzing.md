@@ -10,6 +10,7 @@
 | Occupation | Shop Assistant |
 | User Type | Immediate User |
 | Location | Cesena and Shanghai |
+| Nationality | Chinese |
 
 ## Why Was He Chosen? Why Is He Appropriate?
 
