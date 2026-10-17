@@ -4,23 +4,29 @@
 
 | Field | Details |
 | --- | --- |
-| Name | |
-| Age | |
+| Name | Tuan Anh Nguyen Vu |
+| Age | 23 |
 | Gender | Male |
-| Occupation | |
+| Occupation | Real estate agent |
 | User Type | Immediate User |
 | Location | Ho Chi Minh City and Cesena |
 | Nationality | Vietnamese |
 
 ## Why Was He Chosen? Why Is He Appropriate?
 
+He is a real estate agent living in Ho Chi Minh City, Vietnam. His job requires him to explore different locations and understand local environments. He frequently uses Google Maps and social media to discover places but sometimes encounters missing or unreliable information. His experience provides valuable insights into local place discovery, information reliability, and public space issues. I consider him an experienced immediate user.
+
 ## How Was He Recruited?
+
+Tuan Anh Nguyen Vu was recruited through personal contact, as he is a friend of the interviewer. He was invited to participate in an online interview for our HCI project. He agreed voluntarily to share his experiences of discovering, using, and sharing information about public spaces in Ho Chi Minh City.
 
 ## Where Was the Interview Conducted?
 
 The interview was conducted via video call.
 
 ## What Did You Observe and Ask?
+
+During the interview, we asked Tuan Anh about his habits of visiting public spaces, how he discovers new places, and which tools he uses to find information. We also explored the difficulties he faces when searching for reliable and up-to-date information, his trust in online reviews, and his willingness to share or report local issues. We observed that he relies heavily on Google Maps, social media, and friends' recommendations, but often struggles to find accurate information about current conditions, safety, cleanliness, and crowd levels.
 
 ## Team Member Roles
 
