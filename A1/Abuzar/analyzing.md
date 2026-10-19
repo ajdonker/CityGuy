@@ -37,11 +37,7 @@ He said that recent photos, detailed reviews, agreement between multiple contrib
 
 ## Needs and Possible Solutions
 
-These needs are based on his experiences in the [interview transcript](interview_transcript.md). The possible solutions are preliminary brainstorming ideas.
-
 ### 1. Find Nearby Places That Suit His Activities
-
-He needs to discover nearby public spaces that suit his activities, including quiet walking, studying, and meeting friends.
 
 **Possible solutions:**
 
@@ -53,8 +49,6 @@ He needs to discover nearby public spaces that suit his activities, including qu
 
 ### 2. Assess Safety Before Visiting
 
-He needs information that helps him assess safety before visiting, including security arrangements, recent incidents, and other visitors' experiences.
-
 **Possible solutions:**
 
 - Recent incident notices showing their sources and dates.
@@ -64,8 +58,6 @@ He needs information that helps him assess safety before visiting, including sec
 - Alerts for reported hazards at selected places, with updates when conditions change.
 
 ### 3. Obtain Current Information and Judge Its Reliability
-
-He needs to know whether information about opening hours, crowding, cleanliness, and maintenance reflects a place's current condition.
 
 **Possible solutions:**
 
@@ -77,8 +69,6 @@ He needs to know whether information about opening hours, crowding, cleanliness,
 
 ### 4. Understand Access Conditions and Available Facilities
 
-He needs to understand how a public space can be reached and used, including accessibility, facilities, transport connections, and special access times that may be missing online.
-
 **Possible solutions:**
 
 - Facility and accessibility checklists for individual places.
@@ -89,8 +79,6 @@ He needs to understand how a public space can be reached and used, including acc
 
 ### 5. Know How to Report Problems and Seek Help
 
-He needs to identify the appropriate contact when he encounters damaged facilities, safety incidents, or a need for urgent assistance.
-
 **Possible solutions:**
 
 - Place-specific directories of maintenance and security contacts.
@@ -100,8 +88,6 @@ He needs to identify the appropriate contact when he encounters damaged faciliti
 - Direct access to official contact channels for urgent assistance.
 
 ### 6. Share Useful Information Without Hostile Responses
-
-He needs to share useful local information without being discouraged by hostile or dismissive reactions from other users.
 
 **Possible solutions:**
 

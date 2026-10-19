@@ -39,11 +39,7 @@ He uses the balance of positive and negative reviews, together with photos, to j
 
 ## Needs and Possible Solutions
 
-These needs are based on his experiences in the [interview transcript](interview_transcript.md). The possible solutions are preliminary brainstorming ideas.
-
 ### 1. Check Parking Convenience Before Choosing a Place
-
-He needs to know whether suitable parking is available near a destination and how far it is from the place he wants to visit.
 
 **Possible solutions:**
 
@@ -55,8 +51,6 @@ He needs to know whether suitable parking is available near a destination and ho
 
 ### 2. Obtain Complete Basic Information About Places
 
-He needs to find essential place details efficiently, including the address, opening hours, contact information, and map location.
-
 **Possible solutions:**
 
 - Standardized place listings containing essential details and photos.
@@ -66,8 +60,6 @@ He needs to find essential place details efficiently, including the address, ope
 - Shareable location cards containing an address, map link, and contact information.
 
 ### 3. Assess the Environment and Quality of a Place
-
-He needs to inspect a place's environment and learn from other visitors' experiences before deciding whether its seating, cleanliness, and service suit him.
 
 **Possible solutions:**
 
@@ -79,8 +71,6 @@ He needs to inspect a place's environment and learn from other visitors' experie
 
 ### 4. Plan Journeys Using Accurate Traffic Information
 
-He needs accurate traffic information to judge journey times and plan when and how to travel.
-
 **Possible solutions:**
 
 - Current traffic conditions from available transport or traffic-data sources.
@@ -91,8 +81,6 @@ He needs accurate traffic information to judge journey times and plan when and h
 
 ### 5. Receive Feedback After Reporting Public Problems
 
-He needs to know whether a report has been received and what action has followed.
-
 **Possible solutions:**
 
 - Acknowledgements containing a report reference number.
@@ -102,8 +90,6 @@ He needs to know whether a report has been received and what action has followed
 - Resolution updates supported by photos or confirmation from people at the location.
 
 ### 6. Share Firsthand Experiences to Inform Other People
-
-He needs to communicate positive and negative experiences so that others can make informed choices about places. He already contributes through Google reviews and reported no current barrier to sharing.
 
 **Possible solutions:**
 
