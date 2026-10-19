@@ -9,7 +9,7 @@
 | Gender | Male |
 | Occupation | Real estate agent |
 | User Type | Immediate User |
-| Location | Ho Chi Minh City and Cesena |
+| Location | Ho Chi Minh City |
 | Nationality | Vietnamese |
 
 ## Why Was He Chosen? Why Is He Appropriate?

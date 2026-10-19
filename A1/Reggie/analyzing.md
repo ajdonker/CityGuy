@@ -9,7 +9,7 @@
 | Gender | Male |
 | Occupation | Teacher |
 | User Type | Extreme User |
-| Location | Beijing and Cesena |
+| Location | Beijing |
 | Nationality | British |
 
 ## Why Was He Chosen? Why Is He Appropriate?
