@@ -40,42 +40,47 @@ Overall, the interview revealed a need for a centralized, accessible, and commun
 - **Interviewer:** Blagoja Savevski
 - **Note-taker:** Pengyue Xu 
 
-## Needs
+## Needs and possible solutions 
 
 ### 1. Reliable and Up-to-Date Information
 
-Kalina needs accurate information about public spaces, including their current condition, safety, opening hours, accessibility, and ongoing events. Existing platforms such as Google Maps often lack these details or contain outdated information, making it difficult to decide whether visiting a place is worthwhile.
+Kalina needs current information about public spaces, their safety, condition, opening hours, and ongoing events.
 
-### 2. Accessibility and Information about Transportation
+**Possible solutions:**
 
-She would like to be able to get detailed information about how to access public spaces using different transportation methods, including public transport, cars, and bicycles. She also values information about parking availability, blocked entrances, stairs, and accessibility for people with reduced mobility.
+- Regularly updated place information.
+- Community-submitted updates and reviews.
+- User verification of information.
+- Notifications about changes and closures.
+
+### 2. Accessibility and Transportation Information
+
+She needs information about transportation options, parking availability, and accessibility for people with reduced mobility.
+
+**Possible solutions:**
+
+- Information about public transport, parking, and bicycle access.
+- Accessibility details for entrances, stairs, and obstacles.
+- Community reports about temporary accessibility issues.
+- Accessibility filters when searching for places.
 
 ### 3. Centralized and Multilingual Local Information
 
-As an international student who does not speak Italian, Kalina struggles to find information about cultural events, public transport disruptions, road closures, and changes to public services. She needs a single platform where this information is easily accessible and available in a language she understands.
+She needs an easy way to discover local events, disruptions, and public service updates in a language she understands.
 
-### 4. Community Reporting at hand, Feedback 
+**Possible solutions:**
+- A centralized feed of local news and events.
+- Automatic translation of community information.
+- Updates about road closures, strikes, and transport disruptions.
+- Location-based notifications about nearby events and changes.
 
-Kalina wants a simple way to share useful local information and report problems such as damaged infrastructure or missing safety equipment. She needs her contributions to reach relevant people and wants feedback showing whether her reports have been acknowledged, verified, or acted upon.
+### 4. Easy Community Reporting and Feedback
 
-## Solutions
+Kalina wants to be able to report public space problems, share useful information, and receive feedback about her contribution.
 
-### 1. Context-Aware Place Discovery
-
-Develop a platform that allows users to discover public spaces based on their activities and specific needs, such as studying, exercising, relaxing, or attending cultural events.
-
-Each location could provide updated information about accessibility, transportation, parking, safety, opening hours, and upcoming events. Community contributions would help keep this information relevant and accurate.
-
-### 2. Centralized Multilingual Community Information Platform 
-
-Create a centralized platform where residents can share and discover local updates, including public events, temporary closures, transport disruptions, and neighborhood conditions.
-
-Automatic translation would make information accessible to international residents. A community verification system, where multiple users can confirm updates, would help improve reliability and trust.
-
-### 3. Issue Reporting and Community Verification 
-
-Introduce a reporting feature that allows users to easily document problems in public spaces, such as broken infrastructure, inaccessible entrances, or missing safety equipment.
-
-Other community members could confirm reported issues, increasing their credibility. Reports could be forwarded to relevant public authorities, with status updates showing whether an issue has been acknowledged or resolved.
-
-Contributors could receive notifications when their information helps others or when their reported issues receive updates. This would encourage participation by showing that contributions are reaching people and making a difference.
+**Possible solutions:**
+- Quick issue reporting with photos and location.
+- Community confirmation of reported problems.
+- Forwarding reports to relevant public authorities.
+- Status updates on reported issues.
+- Notifications when contributions help others.
