@@ -1,4 +1,4 @@
-# Interview Analysis: Ibrahim Nie
+# Interview Analysis: Kalina Dimovska
 
 ## Participant Information
 

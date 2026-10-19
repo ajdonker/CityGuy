@@ -1,0 +1,139 @@
+# Interview Transcript: Abuzar Imran
+
+## Transcript
+
+**Interviewer:** I'm a student working at the class project, and I would like to record this interview so I don't miss anything. Only our team and professor will hear it. And is that okay with you?
+
+**Interviewee:** It is totally fine with me.
+
+**Interviewer:** Okay, first, what is your name?
+
+**Interviewee:** My name is Abu Zar.
+
+**Interviewer:** Abu Zar?
+
+**Interviewee:** Abu Zar.
+
+**Interviewer:** Can you pronounce it? So, can I call you as Imran?
+
+**Interviewee:** Yeah, it's okay. You can call me as Imran.
+
+**Interviewer:** Thank you so much. Now, what do you do for living?
+
+**Interviewee:** I am a student right now.
+
+**Interviewer:** You're a student?
+
+**Interviewee:** Yeah. Yeah, I'm in university right now.
+
+**Interviewer:** Can I ask that, what's your majority? Your major?
+
+**Interviewee:** My major. My major is International Economics and trade.
+
+**Interviewer:** So, you are the first year or the second?
+
+**Interviewee:** I'm the first year. No, I guess I'm the second year right now.
+
+**Interviewer:** I think we start. Can you tell me about some place in the city that you regularly visit for a reason other than shopping or eating? For example, a park, a square, or another public space. What do you usually do there?
+
+**Interviewee:** There is a park in my city, you know. Its name is Kirshen Market. Like Kirshen Market, but there is like a park there, in a round shape, so we call it like a circle park. I can't tell you in Urdu because you will not understand it, so it's like a circle park. And a lot of people go there and sit there, have relax, talk with friends. Sometimes there are like community meetings, some kind of events like this. And also, there is like free Wi-Fi, so you can like study there for a little bit. And also, some of the people go there, have walk in the morning, especially like exercise. Old people, you know about them, they do exercise.
+
+**Interviewer:** Like, for old people, they come to the park and do some exercise together in the morning, right?
+
+**Interviewee:** Yeah, yeah, exactly.
+
+**Interviewer:** So it's kind of the social part of the young generation and generation to come to, you know, a lot of people.
+
+**Interviewee:** Yeah, yeah, a lot of people come there. Also, sometimes some people, like, you know, girlfriend, boyfriend, they also come there, sit together, see the place together. So it's like most of the people visit it regularly.
+
+**Interviewer:** Nice place. And when you want to find a place you don't really know, for example, a place to walk in, to work, to exercise, relax, or spend some time, what do you normally find it?
+
+**Interviewee:** I usually, if I want to like have a quiet walk, I usually go to the park nearby me. It's like, the park I tell you before, it was like a community park. It's like long distance. But for nearby, I used to like search on, sometimes, Google, but it doesn't give me a good review on it. There are like a lot of people there at that time. You can't walk properly. So I think there should be something else, like local government website, so the government can tell us about where you can find most of the places, like little places, like five or six kilometers near you. Because the park I told you, it's like about 20 kilometers from my house. It's in the middle of my city.
+
+**Interviewer:** What information is important to you when deciding whether a place is suitable for your needs?
+
+**Interviewee:** Can you repeat again?
+
+**Interviewer:** What information is important to you when you're deciding whether the place is suitable for your needs?
+
+**Interviewee:** Yeah, I think, like, the first priority is safety and security. Because I think, like, whenever you go to a park, any place, you think, like, there should be police nearby, guards. Is it safe for the children and women? The cleanliness, maintenance. Are there toilets around, or any bus? You have to walk in the park, or you can get like accessible cycles or bikes? And which time is like crowded, and which time there are like not a lot of people? So also, like, I used to visit places which is like family friendly. Like there are a lot of children, like few children, and they're not making a lot of noise. I used to stay at a quiet place so I can study or do a meeting with someone like this.
+
+**Interviewer:** What tools or sources do you currently use to find information about the public space or facilities?
+
+**Interviewee:** You know, right now... You know, I want to find a quiet track near my place. I use sometimes Google Maps, but it do not show reviews or photos of that place. It's not listed sometimes. So whether it is safe in the evening, I call a friend who is living nearby. He sits with me sometimes. Whenever it's like quite noisy at that place, we choose a different place. So I think there should be reviews or some kind of thing that could be provided, so we can see that place.
+
+**Interviewer:** So most of the time you depend on your friends who live nearby, and also Google Maps?
+
+**Interviewee:** What?
+
+**Interviewer:** So most of the time, you basically depend on your friend who live nearby the location, or also the Google Map, right?
+
+**Interviewee:** Yeah, yeah, yeah. It depends on my friend. I mostly hang out with my friend. I have one friend in my city. So we just used to hang out, sit at some places, but we couldn't find most of the places we see. They are different from the pictures that are shown on the Google Maps.
+
+**Interviewer:** Can you remember the last time when you couldn't find enough information about the place, and what happened?
+
+**Interviewee:** Repeat again, please.
+
+**Interviewer:** Like your experience that you went to a place that you never know it before, and you don't have any, cannot find any information about that one.
+
+**Interviewee:** Yeah, it happened with me because I wanted to find a marriage bureau, like where the marriage is held. So I went with my friend here and ended up being there. And I couldn't find that place at that point because it was closed, totally closed. It was like structure of the building, and no one was there. So it was like kind of bad for me and my friends. We couldn't find that space clearly.
+
+**Interviewer:** Is there information about urban spaces that is difficult to find using your current tools?
+
+**Interviewee:** Yeah, the real-time situation, whether the park is currently open or crowded or clean. Safety information, like crime reports and incidents near a public space, are rarely available on one stage. So other things, like accessibility, wheelchair accessibility, any ramps for disabled people who are on wheelchairs. Maintaining the security, like drinking water, toilets are working or not. Also, the exact opening and closing time of the park. It's hard to find sometimes on the absent. And also, the urban areas in Pakistan are really packed, so some of the places you can't find, really. And sometimes there's like misinformation on some of the apps.
+
+**Interviewer:** Have you ever discovered something that's useful about a place that wasn't available online? And what was it?
+
+**Interviewee:** A neighbor told me about a government school opened recently in the public area this evening, but for walk and like... Wait, wait. So a neighbor like told me about one of the place opened recently, like a public school for walk and jogging in the morning. Like, you can go there, you can use the park. Like little, little children and elderly people, they can go there for using the ground. So when I learned this from the shopkeeper, that the particular park has a separate place for women-only walking hours in the morning, this information was not available on the website.
+
+**Interviewer:** Have you ever shared useful information about the place with other people? How and why?
+
+**Interviewee:** Yeah, I often share information. Like, if I find some places online, I share it with my family, family group using WhatsApp, sometimes Facebook communities group, posting about a new walking track or a free workshop. Face-to-face conversation, like telling most of the neighbors and friends about good places. And I think to help others save time, I tell them about this. Like they can enjoy also the public space, and they can go there, visit, hang out with their other friends. So that's why I mostly send it to my friends and family.
+
+**Interviewer:** Have you ever relied on information contributed by other citizens? And what makes you trust and distrust?
+
+**Interviewee:** Yes, sometimes I rely on Google reviews, Facebook posts also, and also word of mouth. Like, what make me trust it is multiple people saying same things. Also recent photos and detailed review. Also people I know personally, they share details, specific details, like toilets are clean, there is a guard on the gate, and different things. Also there are some promotional reviews, so I kind of trust it sometimes.
+
+**Interviewer:** Have you ever noticed a problem in the public space, such as damaged infrastructure, and what did you do?
+
+**Interviewee:** Yeah, yeah, yeah. Like I just told about one park which was 20 kilometers from my home. I noticed like there were some broken swings which were not fixed at that time. Sometimes there are like water flowing outside from the ground. Sometimes people are reporting there is like no complaint center near the park. If something happens, like incident happened, you can't complain about anything. Also there's like no service available of any hospital, like small clinics, where you can go in your emergency, any kind of emergency.
+
+**Interviewer:** So did you report an urban problem to a public authority, and can you explain that?
+
+**Interviewee:** Yeah, one time I reported, yeah, one time I reported an incident. Like a person was like doing walk in the ground, in the playground, and after some time one of the person comes and snatches his phone. And at that time he was like so confused, and I ran, I went to that person and said, "What happened?" And he told me, like, "My phone is snatched and I can't call anyone," and this kind of thing. So I just called the police, and maybe around 20, 20 minutes, they came at that spot. And that was the first time I recorded like this kind of incident.
+
+**Interviewer:** So it's really just 20 minutes? And the police, when you're calling, and after 20 minutes the police arrived?
+
+**Interviewee:** Yeah, yeah, yeah, because it was like maybe they were nearby at that time. But it was kind of late because the robber, it could be like gone too far in that time.
+
+**Interviewer:** And as you told at first, that you usually send useful information with your family and your friends, right? And at the beginning, you told that you send useful information with your families and your friends. So have you ever, for example, you post some review online, for example?
+
+**Interviewee:** Yeah, yeah. After that, I like send this information in the WhatsApp groups, and also I send this information on like one of my posts on Instagram. Also I get the review that, "Please be careful around this corner of the ground," because one time there was a robbery, and a phone was stolen by a person. So it was kind of bad, but you have to tell other people about it, because other people don't know about it, so you have to tell it.
+
+**Interviewer:** What discourages you from contributing information?
+
+**Interviewee:** What discourages me?
+
+**Interviewee:** Can you say it again?
+
+**Interviewee:** Can you repeat the question? I didn't...
+
+**Interviewer:** What discourage you from contributing information?
+
+**Interviewee:** What discourage me from contributing information? I think like sometimes people behave badly on the information, that "This is not correct, this is not... You're saying like bad things about it," and this kind of thing. So sometimes I think I shouldn't share this information with anyone else. I should keep it by myself. Even though it's like correct information and useful for other people, but sometimes people are kind of discouraging.
+
+**Interviewer:** And are there particular types of information about your city that you wish were easier to obtain?
+
+**Interviewee:** So what? Can you tell me about it?
+
+**Interviewer:** Are there particular kinds of information about your city that you wish it were easier to obtain?
+
+**Interviewee:** Yeah, I think there should be real-time information about parks and public areas, like status: these are open right now, these are closed right now. The crowd level in the park, and the cleanliness also. Sometimes you go and there's like, it's not clean at that time. So it's like you don't want to sit there for too long. Also, many crimes are reported recently, last year. So I think there should be crime reports: there are a lot of crimes going on in this park, you should stay safe. Also the incidents happened nearby the public areas, it should be available online. Also there should be some signs online about there is toilets, toilets are clean. Also there is security for elderly people, disabled people. The place is women friendly. You can go, like this is the time of the women, they can run around, have fun, and this is the time of the men, these kind of things. Public transport is here, public transport nearby, a bus or some kind of stop for cars. Also the maintenance and repairs, it should be mentioned online.
+
+**Interviewer:** So everything needs to like have a proper accuracy online? I think we want...
+
+**Interviewee:** Yeah, yeah. I think there should be like details, the full details of that thing online. Like if you want to visit a place, you should know about it before going there, like this is good or not.
+
+**Interviewer:** And thank you, thank you for your time and for sharing your experience. I will stop the recording now, and we will only use this for the class project. Thank you so much.
+
+**Interviewee:** Thank you so much for having me, really.
