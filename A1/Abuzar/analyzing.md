@@ -35,31 +35,78 @@ He said that recent photos, detailed reviews, agreement between multiple contrib
 - **Interviewer:** Thanh Tung Nguyen
 - **Note-taker:** Pengyue Xu
 
-## Needs
+## Needs and Possible Solutions
+
+These needs are based on his experiences in the [interview transcript](interview_transcript.md). The possible solutions are preliminary brainstorming ideas.
 
 ### 1. Find Nearby Places That Suit His Activities
 
-He needs to find nearby public spaces where he can walk, study, or meet friends in a suitably quiet environment.
+He needs to discover nearby public spaces that suit his activities, including quiet walking, studying, and meeting friends.
 
+**Possible solutions:**
+
+- Search by distance, activity, and preferred facilities.
+- Neighbourhood guides containing recommendations from local residents.
+- Recent visitor updates about noise and crowding, including the time of the visit.
+- Comparisons of suitable places by travel distance and available facilities.
+- Questions to nearby residents requesting recommendations for a specific activity.
 
 ### 2. Assess Safety Before Visiting
 
-He needs to assess whether a place is safe and suitable for himself and the people using it, including women, children, and older people.
+He needs information that helps him assess safety before visiting, including security arrangements, recent incidents, and other visitors' experiences.
 
+**Possible solutions:**
+
+- Recent incident notices showing their sources and dates.
+- Place information describing available guards, staffed entrances, and security contacts.
+- Firsthand visitor accounts of conditions at different times, including evening visits.
+- Questions answered by venue staff or local residents about specific safety concerns.
+- Alerts for reported hazards at selected places, with updates when conditions change.
 
 ### 3. Obtain Current Information and Judge Its Reliability
 
-He needs to obtain accurate, up-to-date information about a place and assess whether the information reflects its actual condition.
+He needs to know whether information about opening hours, crowding, cleanliness, and maintenance reflects a place's current condition.
+
+**Possible solutions:**
+
+- Updates showing when conditions were observed.
+- Recent visitor photos linked to specific facilities or conditions.
+- Confirmations or corrections from several independent contributors.
+- Clear labels for outdated or conflicting information.
+- Opening hours and facility-status updates confirmed by venue staff or public authorities.
 
 ### 4. Understand Access Conditions and Available Facilities
 
-He needs to find practical local information about how a public space can be used, including accessibility, facilities, transport, and special access times.
+He needs to understand how a public space can be reached and used, including accessibility, facilities, transport connections, and special access times that may be missing online.
+
+**Possible solutions:**
+
+- Facility and accessibility checklists for individual places.
+- Maps showing entrances, ramps, toilets, and drinking-water points.
+- Schedules describing public access to school grounds and designated walking sessions.
+- Place guides showing nearby public transport stops and routes to entrances.
+- Community questions and answers about particular access requirements.
 
 ### 5. Know How to Report Problems and Seek Help
 
-He needs to know whom to contact when he encounters damaged facilities, safety incidents, or a need for urgent assistance in a public space.
+He needs to identify the appropriate contact when he encounters damaged facilities, safety incidents, or a need for urgent assistance.
+
+**Possible solutions:**
+
+- Place-specific directories of maintenance and security contacts.
+- Maps of staffed complaint desks, security posts, and assistance points.
+- Simple forms for non-urgent maintenance reports containing a location and photo.
+- Non-urgent reports routed to the organization responsible for the place or facility.
+- Direct access to official contact channels for urgent assistance.
 
 ### 6. Share Useful Information Without Hostile Responses
 
 He needs to share useful local information without being discouraged by hostile or dismissive reactions from other users.
 
+**Possible solutions:**
+
+- Community rules and moderation addressing personal attacks.
+- Tools for reporting abusive comments.
+- Structured corrections that focus on the information being disputed.
+- Audience controls for sharing with friends, family, or a wider community.
+- Options to limit direct replies while retaining a separate way to report inaccurate information.
