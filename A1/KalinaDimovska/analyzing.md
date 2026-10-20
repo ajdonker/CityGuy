@@ -14,7 +14,7 @@
 
 ## Why Was He/She Chosen? Why Is He/She Appropriate?
 
-Kalina was chosen because she is a student currently living in Bologna who regularly uses public spaces such as parks, libraries, and study rooms. As an international student who does not speak Italian, she faces additional challenges regarding access to relevant local information. She previously resided in Skopje, where she has experienced difficulties in finding information about the local public infrastructure and ongoing events. In both places she likes to attend cultural events and likes to use online platforms and local recommendations to discover new places. As such, her needs as a user could be satisfied by a platform that addresses our previosly agreed upon problem domain. 
+Kalina was chosen because she is a student currently living in Bologna who regularly uses public spaces such as parks, libraries, and study rooms. As an international student who does not speak Italian, she faces additional challenges regarding access to relevant local information. She previously resided in Skopje, where she has experienced difficulties in finding information about the local public infrastructure and ongoing events. In both places she likes to attend cultural events and likes to use online platforms and local recommendations to discover new places. As such, her needs as a user could be satisfied by a platform that addresses our previously agreed upon problem domain. 
 ## How Was He/She Recruited?
 
 Kalina was recruited through personal contact with the interviewer. 
