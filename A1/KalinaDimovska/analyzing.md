@@ -20,7 +20,9 @@ Kalina was chosen because she is a student currently living in Bologna who regul
 Kalina was recruited through personal contact with the interviewer. 
 
 ## Where Was the Interview Conducted?
+
 The interview was conducted remotely through WhatsApp using a video call. The participant was located in Bologna. During the interview, there were minor technical difficulties with the video connection, but the conversation continued.
+
 ## What Did You Observe and Ask?
 
 The interview focused on how Kalina discovers and uses public spaces, what information she needs before visiting them, and how she shares local knowledge with others.
