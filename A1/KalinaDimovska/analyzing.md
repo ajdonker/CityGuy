@@ -21,6 +21,7 @@
 
 ## Where Was the Interview Conducted?
 
+The interview was conducted via video call.
 
 ## What Did You Observe and Ask?
 
