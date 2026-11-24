@@ -1,10 +1,18 @@
-# Project Name: City Guy
+# City Guy
 
-## We selected the prototype for smart phones for sevaral reasons
+City Guy helps people discover useful urban places and improve the city through trusted local knowledge.
 
-## 1.People use smart phones more frequently than smart watches
+## Selected Paper Prototype
 
-## 2.City Guy is an application based on maps, it is different to interact with a map in smart watches because of the limited screen size
+We selected the **smartphone paper prototype** from Assignment 2 as the basis for our Assignment 4 interactive prototype.
 
-## [link](https://www.figma.com/design/MBXyXvKJmew7WOHfCjDvAP/City-Guy-Prototype-for-Smart-Phones?node-id=0-1&t=71XLuN0U7DGpOS9z-1)
+We chose it for the following reasons:
 
+- **Easier map interaction:** Compared with a smartwatch, a smartphone provides more space to explore a map, inspect locations, and select a place
+- **Support for detailed reports:** A smartphone is better suited to entering a description, attaching a photo, and checking a report's location.
+
+**Feature transfers:** No features are being transferred from the smartwatch paper prototype.
+
+## Interactive Prototype
+
+[Open the City Guy smartphone prototype in Figma](https://www.figma.com/proto/MBXyXvKJmew7WOHfCjDvAP/City-Guy-Prototype-for-Smart-Phones?node-id=0-1&t=71XLuN0U7DGpOS9z-1)
